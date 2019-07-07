@@ -4,7 +4,7 @@ version = "0.1.0"
 authors = ["Erik A. Partridge <erik.partridge@mail.mcgill.ca>"]
 
 [dependencies]
-rand = "0.5.4" # Or a newer version
+rand = "0.7.0" # Or a newer version
 time = "*"
 flame = "0.2.2"
 flamer = "^0.2.3"
