@@ -7,4 +7,4 @@ authors = ["Erik A. Partridge <erik.partridge@mail.mcgill.ca>"]
 rand = "0.7.0" # Or a newer version
 time = "*"
 flame = "0.2.2"
-flamer = "^0.2.3"
+flamer = "^0.2.5"
